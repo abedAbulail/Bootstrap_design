@@ -1,0 +1,244 @@
+.nav{
+    width: 100%;
+    height: 70px;
+    background-color: #61677A;
+ 
+
+}
+body{
+    background-color: #272829;
+}
+.top{
+    float: left;
+    overflow: hidden;
+    padding-left: 30px;
+    margin-left: auto;
+    margin-top: 10px;
+}
+.top a{
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+a{
+    text-decoration: none;
+}
+.left{
+    margin-left: auto;
+    margin-top: 20px;
+    
+}
+.cir{
+    width: 20px;
+    height: 20px;
+    background-color: #FFF6E0;
+    border-radius: 50%;
+    margin-top: 20px;
+    background-image: url('check.png');
+    background-size: cover;
+    display: inline-block;
+    
+
+
+}
+.group .p{
+  display: inline-block;
+  margin-left: 30px;
+}
+.img{
+    width: 100%;
+    height: 100%;
+
+    background-image: url("Screenshot 2024-02-18 173258.png");
+    background-size: cover;
+
+}
+.main{
+    background-color: #272829;
+    height: 700px;
+}
+button{
+
+    background-color: #FFF6E0;
+    color: #272829;
+    padding: 10px 25px 10px 25px;
+    border-radius: 30px;
+}
+.b img{
+  margin-left: 10px;
+}
+.f{
+
+    height: 1000px;
+}
+.f1{
+    background-color: #959BAE;
+    background: rgb(0, 9, 60);
+        background: linear-gradient(180deg, #959BAE 85%, rgba(39, 40, 41, 1) 100%);
+}
+.f2{
+background-color: #61677A;
+        background: linear-gradient(180deg, #61677A 85%, rgba(39, 40, 41, 1) 100%);
+}
+.f3 {
+    background-color: #959BAE;
+            background: linear-gradient(180deg, #959BAE 85%, rgba(39, 40, 41, 1) 100%);
+}
+.ff{
+    
+    margin-top: 200px;
+    padding: 20px;
+}
+.h1{
+    font-size: 100px;
+}
+.mid{
+    margin-top: 40px;
+        padding: 20px;
+}
+.back1{
+    width: 100%;
+    height: 300px;
+    margin-left: auto;
+    margin-top: 20px;
+    background-image: url("Screenshot 2024-02-19 041719.png");
+    background-size: cover;
+
+}
+.back2{
+        width: 100%;
+            height: 300px;
+            margin-left: auto;
+            margin-top: 10px;
+            background-image: url("Screenshot 2024-02-19 042221.png");
+            background-size: cover;
+}
+.back3{
+        width: 100%;
+            height: 300px;
+            margin-left: auto;
+            margin-top: 70px;
+            background-image: url("Screenshot 2024-02-19 042252.png");
+            background-size: cover;
+}
+.workars{
+    width: 100%;
+    height: 600px;
+    margin-top: 30px;
+    background-color: #272829;
+}
+.faceimg1{
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+        margin-right: auto;
+    border-radius: 50%;
+    background-image: url("342822452_143658478504857_5754317749547554140_n.jpg");
+        background-size: cover;
+    background-color: #959BAE;
+}
+.faceimg2 {
+    width: 200px;
+    height: 200px;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    background-image: url("349373332_780315853719825_8740586271447148970_n.jpg");
+    background-size: cover;
+    background-color: #959BAE;
+}
+.faceimg3 {
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+        margin-right: auto;
+    border-radius: 50%;
+    background-image: url("106695946_3240572976167343_2688846232979516393_n.jpg");
+        background-size: cover;
+    background-color: #959BAE;
+}
+.faceimg4 {
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+        margin-right: auto;
+    margin-top: 150px;
+    border-radius: 50%;
+    background-image: url("425824491_921482649651809_8394547535865593331_n.jpg");
+        background-size: cover;
+    background-color: #959BAE;
+}
+.faceimg5 {
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+        margin-right: auto;
+    border-radius: 50%;
+    background-image: url("WhatsApp Image 2023-10-20 at 19.51.17_1a617bca.jpg");
+        background-size: cover;
+    background-color: #959BAE;
+}
+.gg{
+    margin-top: 100px;
+}
+.aaa{
+    color: #FFF6E0;
+    font-weight: 600;
+        font-size: 18px;
+                font-family: 'Times New Roman', Times, serif;
+}
+.bbb{
+    color: #FFF6E0;
+    font-weight: 200;
+    font-size: 16px;
+            font-family: 'Times New Roman', Times, serif;
+}
+.aaaa{
+    font-size:80px;
+    font-weight: 300;
+        color: #FFF6E0;
+        font-family: 'Times New Roman', Times, serif;
+}
+.footer{
+    margin-top: 170px;
+    background-color: #61677A;
+    color: #FFF6E0;
+    height: 600px;
+}
+.footer h1{
+    margin-top: 50px;
+   
+}
+.footer .rr button{
+    width: 70%;
+    height: 120px;
+    background-color: #FFF6E0;
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 40px;
+    border: 1px rgba(0, 0, 0, 0.405) solid;
+   
+
+}
+.footer a{
+    text-decoration: none;
+    color: black;
+
+}
+.footer a h2{
+    font-size: 30px;
+    margin-bottom: -12px;
+}
+.footer a p {
+    font-size: 20px;
+}
+.footerimg{
+    margin-left: 50%;
+    width: 100%;
+    height: 100%;
+    background-image: url("Screenshot 2024-02-21 174904.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
